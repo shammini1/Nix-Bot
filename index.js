@@ -1,5 +1,13 @@
 const { spawn } = require("child_process");
 const path = require("path");
+const http = require("http");
+
+const p = process.env.PORT || 3000;
+
+http.createServer((req, res) => {
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  res.end('NixBot is running ✅');
+}).listen(p);
 
 function startBot() {
   const child = spawn(process.execPath, [path.join(__dirname, "nix.js")], {
@@ -10,10 +18,8 @@ function startBot() {
 
   child.on("exit", (code) => {
     if (code === 2) {
-      console.log("🔄 Bot requested restart restarting...");
-      setTimeout(startBot, 1500);
+      setTimeout(startBot, 1000);
     } else {
-      console.log(`🔄 Bot exited with code ${code}`);
       process.exit(code || 0);
     }
   });
