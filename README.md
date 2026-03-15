@@ -12,7 +12,8 @@
 ---
 
 ## 📝 Tutorial
-[Tutorial has been uploaded on TikTok](https://vm.tiktok.com/ZS9RJFk4FoKsA-gLj3w/)
+Tutorial has been uploaded on TikTok:
+(https://vm.tiktok.com/ZS9RJFk4FoKsA-gLj3w/)
 
 ## What is NixBot?
 
