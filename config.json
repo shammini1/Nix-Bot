@@ -6,7 +6,7 @@
   ],
   "premiumNumber": [
     "8801603059633",
-    "60405074407566"
+    "92411036467373"
   ],
   "bannedNumber": [],
   "devsPhoneNumber": "8801603059633@s.whatsapp.net",
@@ -14,10 +14,10 @@
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "8801603059633"
+      "92411036467373"
     ],
     "3": [
-      "60405074407566"
+      "92411036467373"
     ]
   },
   "CoolDownForDev": false,
