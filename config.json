@@ -1,20 +1,20 @@
 {
-  "prefix": "!",
-  "botName": "NixBot",
+  "prefix": ",",
+  "botName": "亗☯Ｍａｄａｒꫝ☯亗",
   "ownerNumber": [
-    "60405074407566"
+    "8801603059633"
   ],
   "premiumNumber": [
-    "60405074407566",
+    "8801603059633",
     "60405074407566"
   ],
   "bannedNumber": [],
-  "devsPhoneNumber": "60405074407566@s.whatsapp.net",
+  "devsPhoneNumber": "8801603059633@s.whatsapp.net",
   "port": 5000,
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "60405074407566"
+      "8801603059633"
     ],
     "3": [
       "60405074407566"
@@ -25,7 +25,7 @@
   "loginMethod": "paircode",
   "apis": "https://api.nixhost.top",
   "keys": "",
-  "adminName": "Aryan Rayhan",
+  "adminName": "亗☯Ｍａｄａｒꫝ☯亗",
   "support": "https://chat.whatsapp.com/FTMWN76de0JETYPxmLe6XR",
   "database": {
     "type": "sqlite",
@@ -41,7 +41,7 @@
     "autoReaction": false
   },
   "unsend": [
-    "😮"
+    "🫠"
   ],
   "commandRoles": {},
   "weatherApiKey": "4902c0f2550f58298ad4146a92b65e10",
