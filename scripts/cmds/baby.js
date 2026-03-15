@@ -19,7 +19,7 @@ const trackMessageId = (id) => {
 module.exports = {
     config: {
         name: "bby",
-        aliases: ["baby", "nix", "bot", "babu", "beby"],
+        aliases: ["baby", "jan", "bot", "babu", "beby"],
         version: "1.3.0",
         author: "ArYAN",
         role: 0,
